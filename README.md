@@ -1,5 +1,4 @@
 # rbeauclair.github.io
-Personal Website
 
 Hi, I'm Roberto de Beauclair Seixas.
 
